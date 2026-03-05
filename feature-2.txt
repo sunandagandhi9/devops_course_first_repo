@@ -2,4 +2,11 @@ This is the initial feature
 this is one more change
 
 
+
 This is change in file i am doing git commit --amend
+
+TRIAL
+
+This is change in file i am doing git commit --amend
+
+
